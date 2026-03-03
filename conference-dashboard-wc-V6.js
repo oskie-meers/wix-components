@@ -190,7 +190,7 @@ class ConferenceDashboard extends HTMLElement {
         <div class="label">Speakers Since We Began</div>
       </div>
       <div class="headline-stat">
-        <div class="num"><span class="counter" data-target="48110">0</span>+</div>
+        <div class="num"><span class="counter" data-target="58110">0</span>+</div>
         <div class="label">Delegates &amp; Attendees</div>
       </div>
       <div class="headline-stat">
@@ -279,7 +279,7 @@ class ConferenceDashboard extends HTMLElement {
               <div class="web-stat-dot" style="background:#4a9b94"></div>
               <div class="web-stat-tag">Visitors</div>
             </div>
-            <div class="w-num">157,000</div>
+            <div class="w-num">157,681</div>
             <div class="w-label">Unique visitors</div>
           </div>
         </div>
